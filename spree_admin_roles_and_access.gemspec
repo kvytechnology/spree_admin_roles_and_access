@@ -14,8 +14,8 @@ Gem::Specification.new do |s|
   s.require_path = 'lib'
   s.requirements << 'none'
 
-  s.add_dependency 'spree_core', '~> 3.3.0.rc1'
-  s.add_dependency 'spree_auth_devise', '~> 3.3.0.rc1'
+  s.add_dependency 'spree_core', '~> 3.4.4'
+  s.add_dependency 'spree_auth_devise', '~> 3.3'
 
   s.add_development_dependency 'capybara'
   s.add_development_dependency 'ffaker'
