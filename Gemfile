@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'spree', '~> 3.4.4'
+gem 'spree', '~> 3.3.0.rc1'
 
 # Spree Internationalization https://github.com/spree/spree_i18n
 gem 'spree_i18n', github: 'spree/spree_i18n', branch: 'master'
